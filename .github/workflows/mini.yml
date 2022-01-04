@@ -10,7 +10,7 @@ env:
   REPO_BRANCH: master
   SUB_VERSION: mini
   CONFIG_FILE: mini.config
-  DIY_SH: diy.sh
+  DIY_SH:
   TZ: Asia/Shanghai
   RELEASE: false
   UPLOAD_BIN_DIR: true
